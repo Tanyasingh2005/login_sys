@@ -1,0 +1,21 @@
+# Login System
+
+A secure Login System built with **Python** and **MySQL Workbench** for user authentication and account management. The application allows users to register, log in, and manage their accounts while securely storing user credentials in a MySQL database. It demonstrates database connectivity, authentication, and CRUD operations using Python.
+
+## Features
+
+* User registration
+* Secure login authentication
+* Password validation
+* MySQL database integration
+* User account management
+* Input validation and error handling
+* Simple and user-friendly interface
+
+## Technologies Used
+
+* Python
+* MySQL Workbench (MySQL)
+* mysql-connector-python
+
+This project is ideal for learning user authentication, database integration, and secure login system implementation using Python and MySQL.
